@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Music file: kept out of the repository because redistribution rights have
+# not been granted (see media/audio/README.md). Place it locally to hear the music;
+# git will not track it. Delete these two lines only if you obtain
+# permission or a licence to redistribute the audio.
+media/audio/*.wav
+media/audio/*.mp3

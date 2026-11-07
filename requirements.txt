@@ -1,0 +1,4 @@
+# Required to run the game (scripts/game.py).
+# Version intentionally not pinned: the original project does not record one.
+# The game was checked with pygame 2.6.1 on Python 3.12.
+pygame
